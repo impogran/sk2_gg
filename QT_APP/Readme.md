@@ -1,1 +1,1 @@
-projekt
+projekt oraz debugi
